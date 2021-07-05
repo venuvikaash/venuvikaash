@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @venuvikaash
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... Front End Development Companies
+### 👋 Hi My Name is Venu Vikaash
 
+### 🎓 Soon to be grad with a Bachelor's of Engineering in Electronics and Communication Engineering (July 2021)
 
-<!---
-venuvikaash/venuvikaash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌇 Madurai, Tamil Nadu, India
+
+### 💻 Interested in Web Development and Video Editing
+
+### 💪🏽 A Sophophile Team Worker
+
+### 🏔 Photography and Photoshop
+
+### 🔮 Dream to become an Entrepreneur and Full Stack Developer
+
+### 🎒 Learning Front End Technology such as React.JS and Redux
