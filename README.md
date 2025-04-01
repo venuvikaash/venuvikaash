@@ -1,15 +1,13 @@
-### 👋 Hi My Name is Venu Vikaash
+### Experienced Software Engineer with 3+ years of expertise in the Insurance and Conversational AI domain. Passionate about building scalable, high-performance systems using modern technologies and best practices in full-stack development, microservices, and cloud-native architectures.
 
-### 🎓 Soon to be grad with a Bachelor's of Engineering in Electronics and Communication Engineering (July 2021)
+### Technical Skills & Expertise:
+✔ Frontend: React.js, Redux, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS
+✔ Backend: Java, Spring Boot, Spring Cloud, Hibernate, Node.js, Express.js
+✔ Databases: PostgreSQL, MongoDB, Redis
+✔ DevOps & Cloud: Docker, Kubernetes, AWS/GCP, CI/CD (Jenkins/GitHub Actions)
+✔ Event-Driven & Messaging: Kafka, RabbitMQ
+✔ System Design: Microservices, REST APIs, Distributed Systems, Scalability
 
-### 🌇 Madurai, Tamil Nadu, India
+### I thrive in complex problem-solving environments, optimizing system performance, and delivering AI-driven conversational experiences. Always eager to learn and adapt to emerging technologies while following clean code principles and best engineering practices.
 
-### 💻 Interested in Web Development and Video Editing
-
-### 💪🏽 A Sophophile Team Worker
-
-### 🏔 Photography and Photoshop
-
-### 🔮 Dream to become an Entrepreneur and Full Stack Developer
-
-### 🎒 Learning Front End Technology such as React.JS and Redux
+### Open to collaborations, mentorship, and challenging opportunities in software development. Let’s connect! 🚀
